@@ -4,6 +4,6 @@
     - name: Hello Message
       debug:
         msg: "Hello World!"
-    - name: Include da-role
-      include_role:
-        name: geerlingguy.java
+    #- name: Include da-role
+    #  include_role:
+    #    name: geerlingguy.java
