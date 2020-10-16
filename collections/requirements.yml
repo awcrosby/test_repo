@@ -4,3 +4,5 @@ collections:
   - name: geerlingguy.php_roles
     version: 0.9.3
     source: https://galaxy.ansible.com
+  # Install a collectin from AH
+  - name: ibm.qradar
