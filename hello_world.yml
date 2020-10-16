@@ -4,6 +4,8 @@
     - name: Hello Message
       debug:
         msg: "Hello World!"
+    - name: Role from collection
+      include_role: geerlingguy.php_roles.php
     #- name: Include da-role
     #  include_role:
     #    name: geerlingguy.java
